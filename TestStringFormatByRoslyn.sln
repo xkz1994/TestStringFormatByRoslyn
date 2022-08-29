@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestStringFormatByRoslyn", "TestStringFormatByRoslyn\TestStringFormatByRoslyn.csproj", "{4753D725-59DA-434C-A585-399F317EC631}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestStringFormatByRoslynFramework", "TestStringFormatByRoslynFramework\TestStringFormatByRoslynFramework.csproj", "{EA806296-32AB-4EE7-A3B1-97D9FC070180}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4753D725-59DA-434C-A585-399F317EC631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4753D725-59DA-434C-A585-399F317EC631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4753D725-59DA-434C-A585-399F317EC631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4753D725-59DA-434C-A585-399F317EC631}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA806296-32AB-4EE7-A3B1-97D9FC070180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA806296-32AB-4EE7-A3B1-97D9FC070180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA806296-32AB-4EE7-A3B1-97D9FC070180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA806296-32AB-4EE7-A3B1-97D9FC070180}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB39C478-57EE-4B48-853B-9E237B43D595}
+	EndGlobalSection
+EndGlobal
